@@ -10,9 +10,6 @@ This project is a backend GraphQL API for managing invoices and related data, de
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [Docker](#docker)
-- [API Schema](#api-schema)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies
 
